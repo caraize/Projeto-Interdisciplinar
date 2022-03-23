@@ -1,0 +1,28 @@
+Algoritmo: CadastroUsuário
+
+Início 
+    String: login, senha, nome, cpf, nasc, rua, bairro;
+    int: fone, cep;
+    boolean: sexo;
+    Escrava('Digite seu nome completo:')
+    Leia(nome)
+    Escrava('Digite sua data de nascimento:')
+    Leia(nasc)
+    Escrava('Digite sua data de nascimento:')
+    Leia(sexo)
+    sexo == Masculino ou Feminino
+    Escrava('Digite seu telefone valido:')
+    Leia(fone)  
+    Escreva('Digite seu CPF valido:')
+    Leia(cpf)
+    Escreva('Digite seu login de acesso:')
+    Leia(Login)
+    Escreva('Digite sua senha de acesso:')
+    Leia(Senha)
+    escreva('Digite o seu cep:')
+    leia(cep)
+    escreva('Digite seu logradouro:')
+    leia(rua)
+    escreva('Digite o bairro que reside:')
+    leia(bairro)
+Fim

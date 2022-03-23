@@ -1,0 +1,15 @@
+Algoritmo: Agenda
+
+    Início
+        string: userCPF, dataInicio, dataFim, professor, cliente
+        Esreva('Digite o CPF do aluno')
+        Leia(userCPF)
+        Esreva('Digite a data inicial das atividades')
+        Leia(dataInicio)
+        Esreva('Digite a data final das atividades')
+        Leia(dataFim)
+        Esreva('Digite o nome do professor')
+        Leia(professor)
+        Esreva('Digite o nome do cliente')
+        Leia(cliente)
+    Fim

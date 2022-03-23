@@ -1,0 +1,16 @@
+Algoritmo Mensalidade
+Início
+
+Inteiro: userCPF
+Real: valor
+String: mes, data_pg
+
+Escreva('Digite seu cpf para identificação: ') 
+Leia(userCPF)
+Escreva('Digite o valor da mensalidade: ')
+Leia(valor)
+Escreva('Digite o mes atual: ')
+Leia(mes)
+Escreva('Quando foi efetuado o pagamento: ')
+Leia (data_pg)
+Fim

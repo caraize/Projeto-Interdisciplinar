@@ -1,0 +1,29 @@
+Algoritmo Medidas
+
+Início
+Reais:altura, peso, brc_dir,brc_esq,peitoral,barriga,quadril,data_cad, pern_dir, pern_esq; 
+Inteiros:userCPF;
+
+Escreva('Digite seu CPF valido: ')
+Leia(userCPF)
+Escreva('Digite sua altura: ')
+Leia(altura)
+Escreva('Digite seu peso: ')
+Leia(peso)
+Escreva('Digite o tamanho do seu braço direito: ')
+Leia(brc_dir)
+Escreva('Digite o tamanho do seu braço esquerdo: ')
+Leia(brc_esq)
+Escreva('Digite o tamanho do seu peitoral: ')
+Leia(peitoral)
+Escreva('Digite o tamanho da sua barriga: ')
+Leia(barriga)
+Escreva('Digite o tamanho do seu quadril: ')
+Leia(quadril)
+Escreva('Digite o tamanho da sua perna direita:')
+Leia(pern_dir)
+Escreva('Digite o tamanho da sua perna esquerda:')
+Leia(pern_esq)
+Escreva('Digite a data que você esta cadrastrando suas medidas:.')
+Leia(data_cad)
+fim

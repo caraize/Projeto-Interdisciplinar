@@ -1,0 +1,16 @@
+Algoritmo: LoginUser
+
+Início
+    String: Login, Senha, CPF
+    Escreva('Digite seu CPF valido.')
+    Leia(userCPF)
+    Escreva('Digite seu login de acesso.')
+    Leia(Login)
+    Escreva('Digite sua senha de acesso.')
+    Leia(Senha)
+        Se (Senha == Senha ){
+            Escreva('Conta criada com sucesso')
+        }senão{
+            Escreva('senha incorreta')
+        }
+Fim
